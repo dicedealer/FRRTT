@@ -1,7 +1,7 @@
 # FRRTT
 ### First Response Rapid Traige Tool
 
-The tool performs three major analysis tasks:
+The tool performs three analysis tasks:
 
   1. File hash generation and VirusTotal lookup – Extract file hashes and checks them
   against VirusTotal to identify malicious files.
